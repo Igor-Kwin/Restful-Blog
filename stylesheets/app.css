@@ -1,0 +1,12 @@
+.ui.container{
+    margin-top:17em;
+    padding-top:17em;
+}
+.header{
+    margin: 30px;
+    padding: 30px;
+}
+#delete{
+    display:inline-block;
+    margin-top:5px;
+}
